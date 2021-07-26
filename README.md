@@ -1,2 +1,2 @@
 # Covid-cases-tracker
-This is a single we page to show all the covid cases record 
+This is a web page to show data of all the states of india covid cases record including recovery, deaths on daily basis .
